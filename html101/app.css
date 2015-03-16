@@ -1,0 +1,16 @@
+h1{
+	color: purple;
+}
+
+.red-font{
+	color: red;
+	font-size: 60px;
+}
+
+#header{
+	color: blue;
+}
+
+#content{
+	color: yellow;
+}
