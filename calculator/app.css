@@ -1,0 +1,31 @@
+button{
+	background-color:grey;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	border-radius: 100px;
+	color:white;
+	font-family:Impact;
+	font-size:32px;
+	margin: 5px;
+	
+
+}
+#message{
+	font-size: 50px;
+	color:white;
+	background: rgba(0,0,0,0.2);
+	direction:rtl;
+	border-radius: 20px; 
+
+	width:455px;
+	height: 70px;
+	margin-bottom: 10px;
+	
+
+}
+.bground{
+	background:rgba(0,0,0,0.6);
+	width:455px;
+	border-radius: 20px;
+}
